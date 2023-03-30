@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HR-management-project-backend/HR-management.iml" filepath="$PROJECT_DIR$/HR-management-project-backend/HR-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HR_Management_Angular_SpringBoot_CRUD.iml" filepath="$PROJECT_DIR$/.idea/HR_Management_Angular_SpringBoot_CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HR-management-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/HR-management-eureka-server/cloud-eureka-server.iml" />
+    </modules>
+  </component>
+</project>
