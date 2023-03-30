@@ -2,8 +2,21 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/HR-management-eureka-server/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/HR-management-eureka-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HR-management-project-backend/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/HR-management-project-backend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR-management-SpringbootKafkaProducer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaConsumer/HR_management_Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaConsumer/HR_management_Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaConsumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaProducer_microservice/HR_management_Producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaProducer_microservice/HR_management_Producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaProducer_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_KafkaProducer_microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_Producer_Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_Producer_Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_department_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_department_microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_eureka_discovery_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_eureka_discovery_server/src/main/resources" charset="UTF-8" />
   </component>
 </project>

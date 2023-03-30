@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/HR-management-project-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HR_management_department_microservice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HR_management_project_frontend" vcs="Git" />
   </component>
 </project>
