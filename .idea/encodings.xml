@@ -16,6 +16,8 @@
     <file url="file://$PROJECT_DIR$/HR_management_Producer_Consumer/HR_management_Producer_Consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HR_management_department_microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HR_management_department_microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_employee_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HR_management_employee_microservice/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HR_management_eureka_discovery_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HR_management_eureka_discovery_server/src/main/resources" charset="UTF-8" />
   </component>

@@ -7,10 +7,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableEurekaClient
-public class HrManagementApplication {
+public class HrManagementDepartmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HrManagementApplication.class, args);
+		SpringApplication.run(HrManagementDepartmentApplication.class, args);
 	}
 
 	//@Bean

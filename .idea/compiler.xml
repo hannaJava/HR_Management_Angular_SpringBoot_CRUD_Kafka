@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HR_management_eureka_discovery_server" />
+        <module name="HR_management_employee_microservice" />
         <module name="HR_management_KafkaProducer_microservice" />
         <module name="HR_management_department_microservice" />
         <module name="HR_management_KafkaConsumer" />
@@ -23,6 +24,7 @@
       <module name="HR_management_KafkaConsumer" options="-parameters" />
       <module name="HR_management_KafkaProducer_microservice" options="-parameters" />
       <module name="HR_management_department_microservice" options="-parameters" />
+      <module name="HR_management_employee_microservice" options="-parameters" />
       <module name="HR_management_eureka_discovery_server" options="-parameters" />
     </option>
   </component>
